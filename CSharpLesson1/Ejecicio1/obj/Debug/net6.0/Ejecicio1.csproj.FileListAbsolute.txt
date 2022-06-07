@@ -1,0 +1,15 @@
+C:\Users\engue\Desktop\Bootcamp\bootcamp_CSharpLesson1\CSharpLesson1\Ejecicio1\bin\Debug\net6.0\Ejecicio1.exe
+C:\Users\engue\Desktop\Bootcamp\bootcamp_CSharpLesson1\CSharpLesson1\Ejecicio1\bin\Debug\net6.0\Ejecicio1.deps.json
+C:\Users\engue\Desktop\Bootcamp\bootcamp_CSharpLesson1\CSharpLesson1\Ejecicio1\bin\Debug\net6.0\Ejecicio1.runtimeconfig.json
+C:\Users\engue\Desktop\Bootcamp\bootcamp_CSharpLesson1\CSharpLesson1\Ejecicio1\bin\Debug\net6.0\Ejecicio1.dll
+C:\Users\engue\Desktop\Bootcamp\bootcamp_CSharpLesson1\CSharpLesson1\Ejecicio1\bin\Debug\net6.0\Ejecicio1.pdb
+C:\Users\engue\Desktop\Bootcamp\bootcamp_CSharpLesson1\CSharpLesson1\Ejecicio1\obj\Debug\net6.0\Ejecicio1.csproj.AssemblyReference.cache
+C:\Users\engue\Desktop\Bootcamp\bootcamp_CSharpLesson1\CSharpLesson1\Ejecicio1\obj\Debug\net6.0\Ejecicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engue\Desktop\Bootcamp\bootcamp_CSharpLesson1\CSharpLesson1\Ejecicio1\obj\Debug\net6.0\Ejecicio1.AssemblyInfoInputs.cache
+C:\Users\engue\Desktop\Bootcamp\bootcamp_CSharpLesson1\CSharpLesson1\Ejecicio1\obj\Debug\net6.0\Ejecicio1.AssemblyInfo.cs
+C:\Users\engue\Desktop\Bootcamp\bootcamp_CSharpLesson1\CSharpLesson1\Ejecicio1\obj\Debug\net6.0\Ejecicio1.csproj.CoreCompileInputs.cache
+C:\Users\engue\Desktop\Bootcamp\bootcamp_CSharpLesson1\CSharpLesson1\Ejecicio1\obj\Debug\net6.0\Ejecicio1.dll
+C:\Users\engue\Desktop\Bootcamp\bootcamp_CSharpLesson1\CSharpLesson1\Ejecicio1\obj\Debug\net6.0\refint\Ejecicio1.dll
+C:\Users\engue\Desktop\Bootcamp\bootcamp_CSharpLesson1\CSharpLesson1\Ejecicio1\obj\Debug\net6.0\Ejecicio1.pdb
+C:\Users\engue\Desktop\Bootcamp\bootcamp_CSharpLesson1\CSharpLesson1\Ejecicio1\obj\Debug\net6.0\Ejecicio1.genruntimeconfig.cache
+C:\Users\engue\Desktop\Bootcamp\bootcamp_CSharpLesson1\CSharpLesson1\Ejecicio1\obj\Debug\net6.0\ref\Ejecicio1.dll
